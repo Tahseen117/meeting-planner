@@ -1,0 +1,1 @@
+This is simple meeting app built to learn Django :)
